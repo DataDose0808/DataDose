@@ -31,7 +31,7 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 ## 🌱 Currently Learning 
 
 - SQL
-- PHYTHON
+- PYTHON
 
 ## 🛠️ Technical Skillset
 
