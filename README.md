@@ -25,7 +25,7 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
       
 ## 🔭 What I'm Currently Working On 
 
-- **Health Care Analysis Project** Analyzed haelthcare datasets to uncover trends in patient outcomes and hospital performance. Utilized data cleaning, expalanatory analysis and visualization techniques to deliever actionable insights that support data-driven healthcare decisions.[Tools used include Power BI to generate insights on patient care, resource utilizaton and operational efficiency.]
+- **Health Care Analysis Project**:Analyzed haelthcare datasets to uncover trends in patient outcomes and hospital performance. Utilized data cleaning, expalanatory analysis and visualization techniques to deliever actionable insights that support data-driven healthcare decisions.[Tools used include Power BI to generate insights on patient care, resource utilizaton and operational efficiency.]
 - **BlinkIT Grocery Store Sales Analysis Project:** Conducted Sales analysis on BlinkIT Grocery dataset to perform data cleaning and built interactive dashboards to track sales performance,product trends and customer purchasing behaviour. Identify top performing products, revenue trends, and customer prefrence enabling data-driven insights.
 
 ## 🌱 Currently Learning 
